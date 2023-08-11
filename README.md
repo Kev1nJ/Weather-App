@@ -9,3 +9,5 @@ The app is currently missing some intended capabilities
   - displaying the weather condition of the city that is being searched.
   - saving user data in local storage to display previously searched cities underneath the search bar
   - 5 Day forecast to see future weather conditions
+
+Site: https://kev1nj.github.io/Weather-App/
